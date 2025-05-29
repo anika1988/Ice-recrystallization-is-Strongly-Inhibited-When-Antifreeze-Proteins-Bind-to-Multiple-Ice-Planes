@@ -1,0 +1,1 @@
+Native and recombinant antifreeze proteins were made and purified through using different chromatography techniques. Purity of the proteins were confirmed by checking sodium dodecyl sulfate-polyacrylamide gel electrophoresis (sds page) results. After purifying the proteins, their ice recrystallization inhibition points were measured.
